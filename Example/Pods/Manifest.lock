@@ -1,0 +1,16 @@
+PODS:
+  - IGTLocalization (0.1.0)
+
+DEPENDENCIES:
+  - IGTLocalization (from `../`)
+
+EXTERNAL SOURCES:
+  IGTLocalization:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IGTLocalization: b9a60bb34aae765eb75b96efe9df428021d68283
+
+PODFILE CHECKSUM: 498c5e39c3f6676e9122b28afce0162a50fe0b13
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,6 @@
+framework module IGTLocalization {
+  umbrella header "IGTLocalization-umbrella.h"
+
+  export *
+  module * { export * }
+}

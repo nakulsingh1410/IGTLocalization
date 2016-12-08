@@ -1,0 +1,22 @@
+{
+  "name": "IGTLocalization",
+  "version": "0.1.0",
+  "summary": "A short description of IGTLocalization.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/IGTLocalization",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nakul Singh": "nakulsingh1410@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/IGTLocalization.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IGTLocalization/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_IGTLocalization_Tests {
+  umbrella header "Pods-IGTLocalization_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
