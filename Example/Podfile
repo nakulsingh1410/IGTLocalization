@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IGTLocalization_Example' do
+  pod 'IGTLocalization', :path => '../'
+
+  target 'IGTLocalization_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
